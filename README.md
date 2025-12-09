@@ -1,5 +1,5 @@
 #A visual, data-driven analysis of the COVID-19 pandemic's global impact, focusing on key metrics (cases, deaths) and geographic/temporal trends from 2020 to mid-2021.
-https://app.powerbi.com/groups/me/reports/0278721a-6ae6-4cc4-b4f3-d7ef305de546/ReportSectionb120046802a8e8aa0602?experience=power-bi
+
 
 #Key Metrics & Highlights:
 
