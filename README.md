@@ -13,3 +13,6 @@ Age Analysis: Visualizes Median Age of cases per continent/country.
 Top 10 Affected Countries: Ranks and graphs Total Cases (e.g., US, India, Brazil, Russia).
 
 Trend Line: Tracks the growth of Total Cases over Time for major countries (e.g., US, India, Brazil) from July 2020 to July 2021.
+
+## Dashboard Preview
+https://app.powerbi.com/groups/8f415c13-b1c2-4dea-ac5e-28e0882f21c5/reports/0278721a-6ae6-4cc4-b4f3-d7ef305de546/ReportSectionb120046802a8e8aa0602?experience=power-bi
