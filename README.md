@@ -1,4 +1,6 @@
-#A visual, data-driven analysis of the COVID-19 pandemic's global impact, focusing on key metrics (cases, deaths) and geographic/temporal trends from 2020 to mid-2021.
+
+# Project-1-Interactive-COVID-19-Dataset-Analysis
+A visual, data-driven analysis of the COVID-19 pandemic's global impact, focusing on key metrics (cases, deaths) and geographic/temporal trends from 2020 to mid-2021.
 
 
 #Key Metrics & Highlights:
